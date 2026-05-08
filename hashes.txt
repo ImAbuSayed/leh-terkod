@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Leh Terkod
+
+This log tracks the cryptographic history and versioning for the song **Leh Terkod** (leh-terkod).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T05:57:51.596579 | `v1` | `97986aa5b214cf1a1860645a2368d1036c2a42ea1dd142f8a695e105b54c562c` | `09fc4cedc85ec9eaf9dd3ce05804f022e1a8361b66c465cbc92bd4ef30fd47bc` | `2026-05-09_leh-terkod-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
